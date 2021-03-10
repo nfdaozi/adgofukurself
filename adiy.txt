@@ -1,0 +1,27 @@
+zhumavip.com##div.footerwrap:nth-child(7)
+zhumavip.com##div.tab-head-wrap:nth-child(3)
+zhumavip.com##div.login_headWrap:nth-child(4) > div.login_head.clearfix > a.logo.fl:first-child
+zhumavip.com##div.mokao-result-box:nth-child(7) > div.mokao-result-resolve:last-child > div.mokao-result-score:first-child > div.mokao-zhuma-download:last-child > div.mokao-zhuma-download-qrcode:last-child > img
+zhumavip.com##div.mokao-result-box:nth-child(7) > div.mokao-result-resolve:last-child > div.mokao-result-score:first-child > div.mokao-result-core:nth-child(3) > p.mokao-result-rate:last-child
+zhumavip.com##div.mokao-result-box:nth-child(7) > div.mokao-result-resolve:last-child > div.mokao-result-score:first-child > div.mokao-zhuma-download:last-child
+zhumavip.com##div.login_headWrap:nth-child(4) > div.login_head.clearfix > ul.fl.nav.clearfix:nth-child(2) > li.login_about:last-child
+zhumavip.com##div.login_headWrap:nth-child(4) > div.login_head.clearfix > ul.fl.nav.clearfix:nth-child(2) > li.downloadpc:nth-child(7)
+zhumavip.com##div.login_headWrap:nth-child(4) > div.login_head.clearfix > ul.fl.nav.clearfix:nth-child(2) > li.login_home:first-child
+zhumavip.com##div.login_headWrap:nth-child(4) > div.login_head.clearfix > ul.fl.nav.clearfix:nth-child(2) > li.pointtest:nth-child(2)
+zhumavip.com##div.login_headWrap:nth-child(4) > div.login_head.clearfix > ul.fl.nav.clearfix:nth-child(2) > li.points:nth-child(6)
+zhumavip.com##div.login_headWrap:nth-child(4) > div.login_head.clearfix > ul.fl.nav.clearfix:nth-child(2) > li.product:nth-child(5)
+zhumavip.com##div.login_headWrap:nth-child(4) > div.login_head.clearfix > div:last-child > div.april_navcon.fl > ul > li.my_lessons.userimghover:last-child
+zhumavip.com##div.mokao-result-box:nth-child(7) > div.mokao-result-resolve:last-child > div.mokao-result-score:first-child > img.mokao-result-score-bg:first-child
+zhumavip.com##div.mokao-result-box:nth-child(7) > div.mokao-result-resolve:last-child > div.mokao-result-score:first-child > img.mokao-result-fenge:nth-child(2)
+zhumavip.com##div.mokao-result-box:nth-child(7) > div.mokao-result-resolve:last-child > div.mokao-result-score:first-child > div.mokao-result-core:nth-child(3) > p.mokao-result-correct-error:nth-child(2)
+zhumavip.com##div.mokao-result-box:nth-child(7) > div.mokao-result-resolve:last-child > div.mokao-result-question-result:last-child > h2.mokao-result-resolve-title:first-child
+zhumavip.com##div.mokao-result-box:nth-child(7) > div.mokao-result-resolve:last-child > div.mokao-result-question-result:last-child > ul:last-child > li.question-info:nth-child(9) > img.mokao-result-fenge:first-child
+zhumavip.com##div.mokao-result-box:nth-child(7) > div.mokao-result-resolve:last-child > div.mokao-result-question-result:last-child > ul:last-child > li.question-info:last-child > div:last-child > div.question-note-box.clearfix:nth-child(4)
+zhumavip.com##div.footerwrap:nth-child(8)
+zhumavip.com###theBox > div.mokao-do-header:first-child > div.mokao-do-username:nth-child(2)
+zhumavip.com###theBox > div.mokao-do-header:first-child > div.mokao-do-img:first-child
+zhumavip.com##div.mokao-result-box:nth-child(7) > div.mokao-result-resolve:last-child > div.mokao-result-question-result:last-child > ul:last-child > li.question-info:first-child > div > div.question-note-box.clearfix:nth-child(4)
+nfmovies.com##div.myui-ra-container.container:nth-child(6) > div.row
+nfmovies.com##div.container:nth-child(8) > div.row > div.myui-panel.myui-panel-bg.clearfix:last-child
+nfmovies.com##div.myui-ra-container.container:nth-child(5) > div.row
+nfmovies.com##div.myui-ra-container.container:nth-child(4) > div.row
