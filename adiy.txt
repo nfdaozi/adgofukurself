@@ -25,3 +25,4 @@ nfmovies.com##div.myui-ra-container.container:nth-child(6) > div.row
 nfmovies.com##div.container:nth-child(8) > div.row > div.myui-panel.myui-panel-bg.clearfix:last-child
 nfmovies.com##div.myui-ra-container.container:nth-child(5) > div.row
 nfmovies.com##div.myui-ra-container.container:nth-child(4) > div.row
+nfmovies.com###player-left > div.myui-player__box.player-fixed:first-child > div.tips.close-box:first-child
