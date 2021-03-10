@@ -26,3 +26,93 @@ nfmovies.com##div.container:nth-child(8) > div.row > div.myui-panel.myui-panel-b
 nfmovies.com##div.myui-ra-container.container:nth-child(5) > div.row
 nfmovies.com##div.myui-ra-container.container:nth-child(4) > div.row
 nfmovies.com###player-left > div.myui-player__box.player-fixed:first-child > div.tips.close-box:first-child
+#去youtube广告
+/googleads.$~script,domain=~googleads.github.io
+/pagead/lvz?
+||google.com/pagead/
+||static.doubleclick.net^$domain=youtube.com
+||youtube.com/get_midroll_
+#去小米电视广告
+127.0.0.1 sdkauth.hpplay.cn
+127.0.0.1 adeng.hpplay.cn
+127.0.0.1 ad.hpplay.cn
+127.0.0.1 conf.hpplay.cn
+127.0.0.1 fix.hpplay.cn
+127.0.0.1 adcdn.hpplay.cn
+127.0.0.1 sl.hpplay.cn
+127.0.0.1 rp.hpplay.cn
+58.217.200.14 cdn.baidupcs.com
+58.217.200.14 hot.cdn.baidupcs.com
+127.0.0.1 f1.market.xiaomi.com
+127.0.0.1 f2.market.xiaomi.com
+127.0.0.1 f3.market.xiaomi.com
+127.0.0.1 f4.market.xiaomi.com
+127.0.0.1 f5.market.xiaomi.com
+127.0.0.1 ad.doubleclick.net
+127.0.0.1 v.admaster.com.cn
+127.0.0.1 f1.market.mi-img.com
+127.0.0.1 f2.market.mi-img.com
+127.0.0.1 f3.market.mi-img.com
+127.0.0.1 f4.market.mi-img.com
+127.0.0.1 f5.market.mi-img.com
+127.0.0.1 g.dtv.cn.miaozhan.com
+127.0.0.1 ad.xiaomi.com
+127.0.0.1 ad1.xiaomi.com
+127.0.0.1 new.api.ad.xiaomi.com
+127.0.0.1 api.ad.xiaomi.com
+127.0.0.1 o2o.api.xiaomi.com
+127.0.0.1 api.ad.xiaomi.com
+127.0.0.1 sdkconfig.ad.xiaomi.com
+127.0.0.1 ad.mi.com
+127.0.0.1 42.120.158.67
+127.0.0.1 42.156.141.75
+127.0.0.1 140.205.172.1
+127.0.0.1 bbs.ydss.cn/public/ad_curl.php
+127.0.0.1 api.ad.xiaomi.com
+127.0.0.1 sdkconfig.ad.xiaomi.com
+127.0.0.1 cdn.ad.xiaomi.com
+127.0.0.1 e.ad.xiaomi.com
+127.0.0.1 new.api.ad.xiaomi.com
+127.0.0.1 ssp.ad.xiaomi.com
+127.0.0.1 test.ad.xiaomi.com
+127.0.0.1 test.e.ad.xiaomi.com
+127.0.0.1 shenghuo.xiaomi.com
+127.0.0.1 hot.browser.miui.com
+127.0.0.1 mb.yidianzixun.com
+127.0.0.1 r.browser.miui.com
+127.0.0.1 webapp.browser.miui.com
+127.0.0.1 my.browser.miui.com
+127.0.0.1 nav.browser.miui.com
+127.0.0.1 hao.xiaomi.com
+127.0.0.1 wap.sogou.com
+127.0.0.1 act.browser.miui.com
+127.0.0.1 news.browser.miui.com
+127.0.0.1 yz.m.sm.cn
+127.0.0.1 web.vip.miui.com
+127.0.0.1 video.browser.miui.com
+127.0.0.1 search.browser.miui.com
+127.0.0.1 www.yidianzixun.com
+127.0.0.1 img.cdn.mvideo.xiaomi.com
+127.0.0.1 t1.a.market.xiaomi.com
+127.0.0.1 etl.xlmc.sandai.net
+127.0.0.1 api.tw06.xlmc.sec.miui.com
+127.0.0.1 etl.xlmc.sec.miui.com
+127.0.0.1 notice.game.xiaomi.com
+127.0.0.1 ppurifier.game.xiaomi.com
+127.0.0.1 adv.sec.miui.com
+127.0.0.1 tracking.miui.com
+127.0.0.1 beha.ksmobile.com
+127.0.0.1 up.cm.ksmobile.com
+127.0.0.1 wtradv.market.xiaomi.com
+127.0.0.1 cloudservice13.kingsoft-office-service.com
+127.0.0.1 counter.kingsoft.com
+127.0.0.1 event.ksosoft.com
+127.0.0.1 uid.ksosoft.com
+127.0.0.1 ups.ksmobile.net
+127.0.0.1 ws.ksmobile.net
+@@||wlmonitor.m.jd.com.gslb.qianxun.com^$important
+@@||tcbox.baidu.com^$important
+@@||nj.t.bcsp2p.baidu.com^$important
+@@||edge-enterprise.activity.windows.com^$important
+@@||edge.activity.windows.com^$important
+@@||notion.so^$important
