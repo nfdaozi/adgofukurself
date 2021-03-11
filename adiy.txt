@@ -137,3 +137,4 @@ ddrk.me###fkasjgf > span > a > img
 ddrk.me###asdugfi > img
 nfmovies.com##div.myui-ra-container.container:nth-child(7) > div.row > a > picture > img:last-child
 nfmovies.com##div.myui-ra-container.container:nth-child(6) > div.row
+nfmovies.com###alDErcZqmrdx > img:first-child
