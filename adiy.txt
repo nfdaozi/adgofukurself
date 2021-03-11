@@ -133,3 +133,5 @@ dapenti.com##div:nth-child(41)
 dapenti.com##div:nth-child(25)
 dapenti.com##div:nth-child(2)
 zhumavip.com###theBox > div.mokao-do-area:last-child > div.mokao-do-side:first-child > div:last-child > ul.mokao-notice
+ddrk.me###fkasjgf > span > a > img
+ddrk.me###asdugfi > img
