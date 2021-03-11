@@ -116,3 +116,13 @@ nfmovies.com###player-left > div.myui-player__box.player-fixed:first-child > div
 @@||edge-enterprise.activity.windows.com^$important
 @@||edge.activity.windows.com^$important
 @@||notion.so^$important
+dapenti.com###right > div.title_down:nth-child(2) > p:nth-child(3)
+dapenti.com###right > div.title_down:last-child > p:first-child
+dapenti.com###left > p:nth-child(5)
+dapenti.com###body > div.box:last-child
+dapenti.com##table.oblog_t_1.ke-zeroborder:nth-child(5) > tbody > tr > td.oblog_t_2:first-child > div > table.ke-zeroborder:nth-child(6) > tbody > tr:nth-child(2) > td > p:nth-child(11)
+dapenti.com##table.oblog_t_1.ke-zeroborder:nth-child(5) > tbody > tr > td.oblog_t_2:first-child > div > table.ke-zeroborder:nth-child(6) > tbody > tr:nth-child(2) > td > p:nth-child(15)
+dapenti.com##table.oblog_t_1.ke-zeroborder:nth-child(8) > tbody > tr > td.oblog_t_2:first-child > div > p:nth-child(7)
+dapenti.com##table.oblog_t_1.ke-zeroborder:nth-child(3) > tbody > tr > td.oblog_t_2:first-child > div > p:nth-child(4)
+dapenti.com##table.oblog_t_1.ke-zeroborder:nth-child(7) > tbody > tr > td.oblog_t_2:first-child > div > p:nth-child(4)
+dapenti.com##center:nth-child(8) > table.ke-zeroborder > tbody > tr > td:first-child > p:nth-child(6)
