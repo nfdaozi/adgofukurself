@@ -26,12 +26,6 @@ nfmovies.com##div.container:nth-child(8) > div.row > div.myui-panel.myui-panel-b
 nfmovies.com##div.myui-ra-container.container:nth-child(5) > div.row
 nfmovies.com##div.myui-ra-container.container:nth-child(4) > div.row
 nfmovies.com###player-left > div.myui-player__box.player-fixed:first-child > div.tips.close-box:first-child
-#去youtube广告
-/googleads.$~script,domain=~googleads.github.io
-/pagead/lvz?
-||google.com/pagead/
-||static.doubleclick.net^$domain=youtube.com
-||youtube.com/get_midroll_
 #去小米电视广告
 127.0.0.1 sdkauth.hpplay.cn
 127.0.0.1 adeng.hpplay.cn
@@ -126,12 +120,6 @@ dapenti.com##table.oblog_t_1.ke-zeroborder:nth-child(8) > tbody > tr > td.oblog_
 dapenti.com##table.oblog_t_1.ke-zeroborder:nth-child(3) > tbody > tr > td.oblog_t_2:first-child > div > p:nth-child(4)
 dapenti.com##table.oblog_t_1.ke-zeroborder:nth-child(7) > tbody > tr > td.oblog_t_2:first-child > div > p:nth-child(4)
 dapenti.com##center:nth-child(8) > table.ke-zeroborder > tbody > tr > td:first-child > p:nth-child(6)
-dapenti.com##div:nth-child(11)
-dapenti.com##div:nth-child(19)
-dapenti.com##div:nth-child(47)
-dapenti.com##div:nth-child(41)
-dapenti.com##div:nth-child(25)
-dapenti.com##div:nth-child(2)
 zhumavip.com###theBox > div.mokao-do-area:last-child > div.mokao-do-side:first-child > div:last-child > ul.mokao-notice
 ddrk.me###fkasjgf > span > a > img
 ddrk.me###asdugfi > img
