@@ -134,3 +134,4 @@ bd2020.com##div.container:nth-child(5) > div.row > div.col-md-3.col-sm-12.dfg-ma
 bd2020.com##div.container:nth-child(5) > div.row > div.col-md-9.col-sm-12.dfg-main-content:nth-child(2) > div.dfg-layout.clearfix:nth-child(5) > div.panel-footer.resource-help:last-child
 bd2020.com###commentDiv
 bd2020.com###index_slide > div.col-lg-4.col-md-5.col-sm-12:last-child > div.dfg-right-qrcode.hidden-sm.hidden-xs:last-child > div.item > dl.clearfix
+toppornsites.com##div.header_container:first-child
