@@ -137,3 +137,8 @@ bd2020.com###index_slide > div.col-lg-4.col-md-5.col-sm-12:last-child > div.dfg-
 toppornsites.com##div.header_container:first-child
 bilibili.com##div.custom-navbar.shadow:nth-child(12) > ul:last-child > li:nth-child(17) > a.main-content:first-child
 bilibili.com##div.custom-navbar.shadow:nth-child(12) > ul:last-child > li:nth-child(15) > a.main-content:first-child
+/googleads.$~script,domain=~googleads.github.io
+/pagead/lvz?
+||google.com/pagead/
+||static.doubleclick.net^$domain=youtube.com
+||youtube.com/get_midroll_
