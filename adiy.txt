@@ -142,3 +142,6 @@ bilibili.com##div.custom-navbar.shadow:nth-child(12) > ul:last-child > li:nth-ch
 ||google.com/pagead/
 ||static.doubleclick.net^$domain=youtube.com
 ||youtube.com/get_midroll_
+zhidao.baidu.com##button.task-list-button:nth-child(9)
+zhidao.baidu.com##div.jump-top-box:nth-child(44)
+netflav.com###home_root > div.ads_head_banner_container:last-child > a.ads_head_banner_header_a:first-child > img.ads_head_banner_header
