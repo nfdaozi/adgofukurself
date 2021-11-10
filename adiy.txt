@@ -21,127 +21,22 @@ zhumavip.com##div.footerwrap:nth-child(8)
 zhumavip.com###theBox > div.mokao-do-header:first-child > div.mokao-do-username:nth-child(2)
 zhumavip.com###theBox > div.mokao-do-header:first-child > div.mokao-do-img:first-child
 zhumavip.com##div.mokao-result-box:nth-child(7) > div.mokao-result-resolve:last-child > div.mokao-result-question-result:last-child > ul:last-child > li.question-info:first-child > div > div.question-note-box.clearfix:nth-child(4)
+ddrk.me###kasjbgih > a > img
+bd2020.com##div.container:nth-child(4) > div.row > div.col-md-9.col-sm-12.dfg-main-content:first-child > div.dfg-layout.clearfix:nth-child(8)
+dyxs11.com###main > div.player-block:first-child > div.content > div.player-box:first-child > div.player-box-main > div.tips-box:first-child
+dyxs11.com###header > div.header-content > div.content > div.brand:first-child > a.logo > img
+dianying.im###search-content > div.index-logo:first-child > span.logo-s > img
+dianying.im###header > div.header-content:first-child > div.dianying-im:first-child > div.header-logo > h1.slogan:first-child
+dianying.im###header > div.header-content:first-child > div.dianying-im:first-child > div.header-logo > div.fixed-logo:last-child > a.logo > img
+dianying.im###search-content > div.index-logo:first-child
+dyxs11.com###main > div.player-block:first-child > div.content > div.player-info:nth-child(2) > div.video-info:last-child > div.video-player-handle:last-child > div.drop.pc:nth-child(2) > span.btn-block-o.handle-btn.handle-more:first-child
+dyxs11.com###main > div.player-block:first-child > div.content > div.player-info:nth-child(2) > div.video-info:last-child > div.video-player-handle:last-child > div.video-player-handle-more:last-child > div.drop:last-child > span.btn-block-o.handle-btn.handle-more:first-child
+bilibili.com##.bilibili-player-video-bottom-area
+bilibili.com###danmukuBox
+bilibili.com###v_upinfo > div.up-info_right:last-child > div.btn-panel:last-child > div.default-btn.charge-btn.btn-transition.following-charge-btn:first-child
+ddrk.me###fkasjgf
 nfmovies.com##div.myui-ra-container.container:nth-child(6) > div.row
-nfmovies.com##div.container:nth-child(8) > div.row > div.myui-panel.myui-panel-bg.clearfix:last-child
-nfmovies.com##div.myui-ra-container.container:nth-child(5) > div.row
-nfmovies.com##div.myui-ra-container.container:nth-child(4) > div.row
-nfmovies.com###player-left > div.myui-player__box.player-fixed:first-child > div.tips.close-box:first-child
-#去小米电视广告
-127.0.0.1 sdkauth.hpplay.cn
-127.0.0.1 adeng.hpplay.cn
-127.0.0.1 ad.hpplay.cn
-127.0.0.1 conf.hpplay.cn
-127.0.0.1 fix.hpplay.cn
-127.0.0.1 adcdn.hpplay.cn
-127.0.0.1 sl.hpplay.cn
-127.0.0.1 rp.hpplay.cn
-58.217.200.14 cdn.baidupcs.com
-58.217.200.14 hot.cdn.baidupcs.com
-127.0.0.1 f1.market.xiaomi.com
-127.0.0.1 f2.market.xiaomi.com
-127.0.0.1 f3.market.xiaomi.com
-127.0.0.1 f4.market.xiaomi.com
-127.0.0.1 f5.market.xiaomi.com
-127.0.0.1 ad.doubleclick.net
-127.0.0.1 v.admaster.com.cn
-127.0.0.1 f1.market.mi-img.com
-127.0.0.1 f2.market.mi-img.com
-127.0.0.1 f3.market.mi-img.com
-127.0.0.1 f4.market.mi-img.com
-127.0.0.1 f5.market.mi-img.com
-127.0.0.1 g.dtv.cn.miaozhan.com
-127.0.0.1 ad.xiaomi.com
-127.0.0.1 ad1.xiaomi.com
-127.0.0.1 new.api.ad.xiaomi.com
-127.0.0.1 api.ad.xiaomi.com
-127.0.0.1 o2o.api.xiaomi.com
-127.0.0.1 api.ad.xiaomi.com
-127.0.0.1 sdkconfig.ad.xiaomi.com
-127.0.0.1 ad.mi.com
-127.0.0.1 42.120.158.67
-127.0.0.1 42.156.141.75
-127.0.0.1 140.205.172.1
-127.0.0.1 bbs.ydss.cn/public/ad_curl.php
-127.0.0.1 api.ad.xiaomi.com
-127.0.0.1 sdkconfig.ad.xiaomi.com
-127.0.0.1 cdn.ad.xiaomi.com
-127.0.0.1 e.ad.xiaomi.com
-127.0.0.1 new.api.ad.xiaomi.com
-127.0.0.1 ssp.ad.xiaomi.com
-127.0.0.1 test.ad.xiaomi.com
-127.0.0.1 test.e.ad.xiaomi.com
-127.0.0.1 shenghuo.xiaomi.com
-127.0.0.1 hot.browser.miui.com
-127.0.0.1 mb.yidianzixun.com
-127.0.0.1 r.browser.miui.com
-127.0.0.1 webapp.browser.miui.com
-127.0.0.1 my.browser.miui.com
-127.0.0.1 nav.browser.miui.com
-127.0.0.1 hao.xiaomi.com
-127.0.0.1 wap.sogou.com
-127.0.0.1 act.browser.miui.com
-127.0.0.1 news.browser.miui.com
-127.0.0.1 yz.m.sm.cn
-127.0.0.1 web.vip.miui.com
-127.0.0.1 video.browser.miui.com
-127.0.0.1 search.browser.miui.com
-127.0.0.1 www.yidianzixun.com
-127.0.0.1 img.cdn.mvideo.xiaomi.com
-127.0.0.1 t1.a.market.xiaomi.com
-127.0.0.1 etl.xlmc.sandai.net
-127.0.0.1 api.tw06.xlmc.sec.miui.com
-127.0.0.1 etl.xlmc.sec.miui.com
-127.0.0.1 notice.game.xiaomi.com
-127.0.0.1 ppurifier.game.xiaomi.com
-127.0.0.1 adv.sec.miui.com
-127.0.0.1 tracking.miui.com
-127.0.0.1 beha.ksmobile.com
-127.0.0.1 up.cm.ksmobile.com
-127.0.0.1 wtradv.market.xiaomi.com
-127.0.0.1 cloudservice13.kingsoft-office-service.com
-127.0.0.1 counter.kingsoft.com
-127.0.0.1 event.ksosoft.com
-127.0.0.1 uid.ksosoft.com
-127.0.0.1 ups.ksmobile.net
-127.0.0.1 ws.ksmobile.net
-@@||wlmonitor.m.jd.com.gslb.qianxun.com^$important
-@@||tcbox.baidu.com^$important
-@@||nj.t.bcsp2p.baidu.com^$important
-@@||edge-enterprise.activity.windows.com^$important
-@@||edge.activity.windows.com^$important
-@@||notion.so^$important
-dapenti.com###right > div.title_down:nth-child(2) > p:nth-child(3)
-dapenti.com###right > div.title_down:last-child > p:first-child
-dapenti.com###left > p:nth-child(5)
-dapenti.com###body > div.box:last-child
-dapenti.com##table.oblog_t_1.ke-zeroborder:nth-child(5) > tbody > tr > td.oblog_t_2:first-child > div > table.ke-zeroborder:nth-child(6) > tbody > tr:nth-child(2) > td > p:nth-child(11)
-dapenti.com##table.oblog_t_1.ke-zeroborder:nth-child(5) > tbody > tr > td.oblog_t_2:first-child > div > table.ke-zeroborder:nth-child(6) > tbody > tr:nth-child(2) > td > p:nth-child(15)
-dapenti.com##table.oblog_t_1.ke-zeroborder:nth-child(8) > tbody > tr > td.oblog_t_2:first-child > div > p:nth-child(7)
-dapenti.com##table.oblog_t_1.ke-zeroborder:nth-child(3) > tbody > tr > td.oblog_t_2:first-child > div > p:nth-child(4)
-dapenti.com##table.oblog_t_1.ke-zeroborder:nth-child(7) > tbody > tr > td.oblog_t_2:first-child > div > p:nth-child(4)
-dapenti.com##center:nth-child(8) > table.ke-zeroborder > tbody > tr > td:first-child > p:nth-child(6)
-zhumavip.com###theBox > div.mokao-do-area:last-child > div.mokao-do-side:first-child > div:last-child > ul.mokao-notice
-ddrk.me###fkasjgf > span > a > img
-ddrk.me###asdugfi > img
-nfmovies.com##div.myui-ra-container.container:nth-child(7) > div.row > a > picture > img:last-child
-nfmovies.com##div.myui-ra-container.container:nth-child(6) > div.row
-nfmovies.com###alDErcZqmrdx > img:first-child
-dapenti.com###right > div.title_down:nth-child(2) > p:nth-child(4)
-dapenti.com##center:nth-child(4)
-bd2020.com##div.container:nth-child(5) > div.row > div.col-md-9.col-sm-12.dfg-main-content:nth-child(2) > div.dfg-layout.clearfix:nth-child(7)
-bd2020.com##div.container:nth-child(4) > div.row > div.col-sm-12.dfg-layout
-bd2020.com##div.container:nth-child(5) > div.row > div.col-md-3.col-sm-12.dfg-main-side.hidden-sm.hidden-xs:last-child > div.dfg-layout:first-child > div.dfg-details-qrcode.side.clearfix:first-child > div.item
-bd2020.com##div.container:nth-child(5) > div.row > div.col-md-9.col-sm-12.dfg-main-content:nth-child(2) > div.dfg-layout.clearfix:nth-child(5) > div.panel-footer.resource-help:last-child
-bd2020.com###commentDiv
-bd2020.com###index_slide > div.col-lg-4.col-md-5.col-sm-12:last-child > div.dfg-right-qrcode.hidden-sm.hidden-xs:last-child > div.item > dl.clearfix
-toppornsites.com##div.header_container:first-child
-bilibili.com##div.custom-navbar.shadow:nth-child(12) > ul:last-child > li:nth-child(17) > a.main-content:first-child
-bilibili.com##div.custom-navbar.shadow:nth-child(12) > ul:last-child > li:nth-child(15) > a.main-content:first-child
-/googleads.$~script,domain=~googleads.github.io
-/pagead/lvz?
-||google.com/pagead/
-||static.doubleclick.net^$domain=youtube.com
-||youtube.com/get_midroll_
-zhidao.baidu.com##button.task-list-button:nth-child(9)
-zhidao.baidu.com##div.jump-top-box:nth-child(44)
-netflav.com###home_root > div.ads_head_banner_container:last-child > a.ads_head_banner_header_a:first-child > img.ads_head_banner_header
+dianying.im###main > div.player-block:first-child > div.content > div.player-info:nth-child(2)
+dianying.im###main > div.player-block:first-child > div.content > div.player-box:first-child > div.player-box-main > div.tips-box:first-child
+dianying.im###play-pause
+
