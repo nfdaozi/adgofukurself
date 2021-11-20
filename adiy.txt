@@ -42,3 +42,7 @@ dianying.im###play-pause
 nkvob.com###main > div.player-block:first-child > div.content > div.player-info:nth-child(2) > div.player-recommend.recommend-list:last-child > a > div.pc:first-child > img
 zxzj.fun##div.container:nth-child(2) > div.none:first-child > a > img.img-responsive
 post.smzdm.com###global-nav > div.nav-inner.z-clearfix > div.nav-controls:last-child
+post.smzdm.com###elevator
+ik4.cc###player-sidebar > div.myui-panel.active.clearfix > div.myui-panel-box.clearfix > div.tips.close-box:first-child
+ik4.cc###player-left > div.myui-player__box.player-fixed:first-child > div.tips.close-box:first-child
+ik4.cc##div.container:nth-child(4) > div.row > div.stui-pannel-box.clearfix:first-child > div.stui-pannel_hd
