@@ -46,3 +46,4 @@ post.smzdm.com###elevator
 ik4.cc###player-sidebar > div.myui-panel.active.clearfix > div.myui-panel-box.clearfix > div.tips.close-box:first-child
 ik4.cc###player-left > div.myui-player__box.player-fixed:first-child > div.tips.close-box:first-child
 ik4.cc##div.container:nth-child(4) > div.row > div.stui-pannel-box.clearfix:first-child > div.stui-pannel_hd
+dandanzan.cc##div.container:nth-child(3) > div.lists.lists-thumb-top.lists-title-lines-1.list-like:last-child
