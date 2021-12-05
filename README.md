@@ -1,1 +1,1 @@
-# adgofukurself
+# 自用广告过滤
