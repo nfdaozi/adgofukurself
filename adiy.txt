@@ -1,3 +1,8 @@
+#误杀
+@@||edge-enterprise.activity.windows.com^$important
+@@||edge.activity.windows.com^$important
+
+#元素
 zhumavip.com##div.footerwrap:nth-child(7)
 zhumavip.com##div.tab-head-wrap:nth-child(3)
 zhumavip.com##div.login_headWrap:nth-child(4) > div.login_head.clearfix > a.logo.fl:first-child
